@@ -1,0 +1,31 @@
+{
+  "skills": [
+    {
+      "name": "analyze",
+      "description": "Evidence-based repository analysis before code changes.",
+      "domains": ["engineering", "research"],
+      "capabilities": ["diagnosis", "repository-analysis"],
+      "triggers": ["analyze", "investigate", "why"],
+      "base_priority": 0.7,
+      "workflow_type": "analysis"
+    },
+    {
+      "name": "code-review",
+      "description": "Review correctness, regressions, risks, and missing tests.",
+      "domains": ["engineering"],
+      "capabilities": ["code-review", "quality"],
+      "triggers": ["review", "quality", "bug"],
+      "base_priority": 0.8,
+      "workflow_type": "review"
+    },
+    {
+      "name": "scientific-figure-making",
+      "description": "Create publication-ready Matplotlib figures for papers and reports.",
+      "domains": ["research", "visualization"],
+      "capabilities": ["academic-visualization", "matplotlib"],
+      "triggers": ["paper", "figure", "chart"],
+      "base_priority": 0.7,
+      "workflow_type": "visualization"
+    }
+  ]
+}
