@@ -1,0 +1,4 @@
+interface:
+  display_name: "SkillOS"
+  short_description: "Privacy-first adaptive skill routing for Codex."
+  default_prompt: "Use $skillos to route this request using my SkillOS profile and registry."
