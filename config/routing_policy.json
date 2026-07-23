@@ -1,0 +1,11 @@
+{
+  "weights": {
+    "intent_domain": 0.30,
+    "requested_capability": 0.25,
+    "preferred_skill": 0.20,
+    "base_priority": 0.10,
+    "historical_success": 0.15
+  },
+  "max_selected_skills": 3,
+  "expansive_workflows": ["team", "autopilot", "ralph", "ultrawork"]
+}
