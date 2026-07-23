@@ -1,0 +1,12 @@
+{
+  "domains": {
+    "engineering": 0.9,
+    "research": 0.7
+  },
+  "preferred_skills": ["analyze", "code-review"],
+  "preferences": {
+    "deep_analysis": true,
+    "verification_first": true,
+    "multi_agent": false
+  }
+}
